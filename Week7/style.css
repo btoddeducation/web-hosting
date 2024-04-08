@@ -1,0 +1,62 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light background color */
+}
+
+header {
+    background-color: #1a1a1a; /* Dark League of Legends theme color */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.top-section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+.middle-section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.card--bg-purple {
+    background-color: #663399; /* Purple theme color */
+    color: #fff;
+}
+
+.card--bg-gray-blue {
+    background-color: #778899; /* Slate Gray theme color */
+    color: #fff;
+}
+
+.card__header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.card__img {
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+footer {
+    background-color: #1a1a1a;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}

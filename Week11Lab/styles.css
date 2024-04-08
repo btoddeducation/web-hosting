@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px; /* Adjust as needed */
+}
+
+.square {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ccc;
+    transition: background-color 0.3s;
+}

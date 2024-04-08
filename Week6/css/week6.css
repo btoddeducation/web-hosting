@@ -1,0 +1,109 @@
+* {
+  outline: 1px solid red;
+}
+#div1 {
+  background-color: antiquewhite;
+  width: 100px;
+  height: 50px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+#div2 {
+  background-color: aqua;
+  width: 120px;
+  height: 80px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  padding-right: 30px;
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+#div3 {
+  background-color: blueviolet;
+  width: 80px;
+  height: 120px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+#div4 {
+  background-color: chartreuse;
+  width: 80px;
+  height: 120px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+#div5 {
+  background-color: crimson;
+  width: 80px;
+  height: 120px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+#div6 {
+  background-color: darkslategray;
+  width: 80px;
+  height: 120px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+#div7 {
+  background-color: hotpink;
+  width: 80px;
+  height: 120px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+#div8 {
+  background-color: indigo;
+  width: 80px;
+  height: 120px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
