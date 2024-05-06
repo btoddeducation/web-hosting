@@ -1,0 +1,71 @@
+/* Reset default browser styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styles */
+body {
+    font-family: 'Roboto', sans-serif; /* Use Google Font Roboto for a modern look */
+    background-color: #f9f9f9; /* Light gray background */
+}
+
+header {
+    background-color: #222; /* Dark gray header background */
+    color: #fff; /* White text */
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff; /* White text for navigation links */
+    text-decoration: none;
+    transition: color 0.3s ease; /* Smooth transition for link color */
+}
+
+nav ul li a:hover {
+    color: #ffd700; /* Change link color to gold on hover */
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #222; /* Dark gray footer background */
+    color: #fff; /* White text */
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* New classes */
+.hidden {
+    display: none;
+}
+
+.champion {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.champion img {
+    width: 100px;
+    height: 100px;
+}
+
+.champion div {
+    margin-top: 5px;
+}
